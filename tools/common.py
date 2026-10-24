@@ -6,6 +6,7 @@ OWNER = "yui0811"
 PAGES_BASE = "https://yui0811.github.io/yui-post-picker"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATUS_PATH = os.path.join(ROOT, "data", "status.json")
+RESULTS_PATH = os.path.join(ROOT, "data", "results.json")  # per issue/item results
 JST = datetime.timezone(datetime.timedelta(hours=9))
 
 
@@ -33,11 +34,12 @@ def run(cmd, check=True, **kw):
 
 def git_sync():
     """Pull latest main (rebase) so pushes don't conflict."""
-    run(["git", "pull", "--rebase", "-q", "origin", "main"], check=False)
+    run(["git", "pull", "--rebase", "--autostash", "-q", "origin", "main"], check=False)
 
 
 def git_commit_push(paths, message):
-    run(["git", "add", "--"] + list(paths))
+    run(["python3", os.path.join(ROOT, "tools", "bump_version.py")])
+    run(["git", "add", "--"] + list(paths) + [os.path.join(ROOT, "index.html")])
     r = run(["git", "diff", "--cached", "--quiet"], check=False)
     if r.returncode == 0:
         return False  # nothing to commit

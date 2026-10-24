@@ -4,22 +4,48 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>yui_ai_0811 投稿えらび</title>
-<link rel="stylesheet" href="style.css?v=06e4381">
+<link rel="stylesheet" href="style.css?v=70c4c71a">
 </head>
 <body>
 <header class="top">
-  <h1>yui_ai_0811 投稿えらび</h1>
-  <p class="note">画像は最大4枚まで、タップした順に1〜4番になります（下の欄で並べ替えできます）。OK/削除を押すとGitHubの画面が開くので『Submit new issue』を押してください。数分以内に反映します。</p>
+  <div class="titlerow"><h1>yui_ai_0811 投稿えらび</h1><button id="gear" type="button" title="設定">⚙ 設定</button></div>
+  <p class="note">画像は最大4枚まで、タップした順に1〜4番になります（下の欄で並べ替えできます）。OK/ポスト削除を押すとすぐ送信され、その投稿は一覧から消えます。数分以内にBufferへ反映します。<br>※最初に「⚙ 設定」でGitHubトークンを登録してください（未登録の場合は「まとめて送信」でGitHub画面を開く方式になります）。</p>
   <div class="controls">
     <label>回: <select id="runSel"></select></label>
-    <label class="tog"><input type="checkbox" id="showDeleted"> 削除済みも表示</label>
-    <label class="tog"><input type="checkbox" id="showDone" checked> 保存済みも表示</label>
+    <label class="tog"><input type="checkbox" id="showDone"> 処理済みも表示</label>
     <button id="reload" type="button">再読み込み</button>
   </div>
   <p id="summary" class="summary"></p>
 </header>
 <main id="posts"><p class="loading">読み込み中…</p></main>
+
+<div id="qbar" class="qbar" hidden>
+  <span id="qcount"></span><span id="qsent" class="qsent"></span>
+  <span class="qbtns"><button id="qshow" type="button">内容を確認</button><button id="qsend" type="button" class="ok">まとめて送信</button></span>
+</div>
+<div id="qpanel" class="qpanel" hidden>
+  <div class="qphead"><b>送信待ち・処理待ちの内容</b><button id="qclose" type="button">閉じる</button></div>
+  <div id="qlist"></div>
+</div>
+
+<div id="settings" class="modal" hidden>
+  <div class="mbox">
+    <div class="qphead"><b>⚙ 設定（GitHubトークン）</b><button id="setClose" type="button">閉じる</button></div>
+    <p>トークンを登録すると、OK/ポスト削除を押すだけでGitHubの画面を開かずに送信できます。トークンはこのブラウザの中（localStorage）だけに保存され、api.github.com 以外には送られません。</p>
+    <ol class="howto">
+      <li><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">トークン作成ページ</a>を開く（yui0811でログイン）</li>
+      <li>Token name：好きな名前（例: picker）、Expiration：お好みで</li>
+      <li>Repository access：<b>Only select repositories</b> → <b>yui-post-picker</b> を選ぶ</li>
+      <li>Permissions → Repository permissions → <b>Issues：Read and write</b></li>
+      <li>「Generate token」を押して、表示された <code>github_pat_…</code> をコピーして下に貼り付け</li>
+    </ol>
+    <p>状態：<span id="tokState"></span></p>
+    <div class="tokrow"><input id="tokIn" type="password" placeholder="github_pat_… を貼り付け" autocomplete="off"><button id="tokSave" type="button" class="ok">保存</button></div>
+    <div class="tokrow"><button id="tokTest" type="button">接続テスト</button><button id="tokDel" type="button" class="del">削除</button><span id="tokTestRes" class="testres"></span></div>
+  </div>
+</div>
+
 <div id="lightbox" class="lightbox" hidden><img alt=""><button type="button" class="close">×</button></div>
-<script src="app.js?v=06e4381"></script>
+<script src="app.js?v=70c4c71a"></script>
 </body>
 </html>
