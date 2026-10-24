@@ -27,6 +27,8 @@ def main():
     if result.startswith("idea_saved:"):
         idea_id = result.split(":", 1)[1].strip()
         kind, comment = "idea_saved", f"Bufferのアイデアに保存しました（ID: {idea_id}）"
+        if "error" not in req and req.get("images"):
+            comment += "\n画像の順番: " + " → ".join(f"{i}. {n}" for i, n in enumerate(req["images"], 1))
     elif result == "deleted":
         idea_id, kind, comment = None, "deleted", "候補から削除しました"
     elif result.startswith("error:"):
@@ -45,7 +47,8 @@ def main():
         entry["issue"] = int(num)
         if kind == "idea_saved":
             entry["buffer_idea_id"] = idea_id
-            entry["image"] = req.get("image")
+            entry["images"] = req.get("images") or []
+            entry.pop("image", None)
             entry["caption_pattern"] = req.get("caption_pattern")
         status[key] = entry
         save_json(STATUS_PATH, status)

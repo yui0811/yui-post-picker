@@ -61,19 +61,20 @@
       <h2><span>${esc(p.id)}｜${esc(p.title)}</span><span class="badge b-${st}">${STATE_LABEL[st]}</span></h2>
       <p class="meta">元ポスト: ${p.source_url ? `<a href="${esc(p.source_url)}" target="_blank" rel="noopener">${esc(p.author ? "@" + p.author : p.source_url)}</a>` : "-"}<br>
       いいね ${fmt(m.likes)} / リポスト ${fmt(m.reposts)} / リプライ ${fmt(m.replies)} / インプレッション ${fmt(m.impressions)}</p>
-      ${st === "idea_saved" ? `<p class="done-info">保存済み${info.image ? "（画像: " + esc(info.image) + (info.caption_pattern ? " / " + esc(info.caption_pattern) : "") + "）" : ""}${info.buffer_idea_id ? " ID: " + esc(info.buffer_idea_id) : ""}</p>` : ""}
-      <div class="sec">① 画像をえらぶ（タップで選択・🔍で拡大）</div>
+      ${st === "idea_saved" ? savedInfo(info, p) : ""}
+      <div class="sec">① 画像をえらぶ（最大4枚・タップした順に1〜4・もう一度タップで解除・🔍で拡大）</div>
       <div class="grid"></div>
+      <div class="selstrip"><div class="sec2">選んだ順番（←→で並べ替え・×で外す）</div><div class="strip"></div></div>
       <div class="sec">② キャプションをえらぶ</div>
       <div class="caps"></div>
       <div class="sec">③ 投稿する文章（自由に直せます）</div>
       <textarea placeholder="キャプションを選ぶとここに入ります"></textarea>
       <div class="count"></div>
       <div class="btns"><button type="button" class="ok" disabled>OK（Bufferのアイデアに保存）</button><button type="button" class="del">ポスト削除</button></div>`;
-    let selImg = null, selCap = null;
+    let selImgs = [], selCap = null;
     const grid = $(".grid", el), caps = $(".caps", el), ta = $("textarea", el), ok = $(".ok", el), cnt = $(".count", el);
     const update = () => {
-      ok.disabled = !(selImg && ta.value.trim());
+      ok.disabled = !ta.value.trim();
       cnt.textContent = ta.value.length + "文字";
     };
     for (const img of p.images) {
@@ -82,11 +83,40 @@
       b.innerHTML = `<img loading="lazy" src="${esc(img.path)}" alt="${esc(img.name)}"><span class="lbl">${esc(img.name.replace(".jpg", ""))}</span><button type="button" class="zoom">🔍</button>`;
       b.addEventListener("click", e => {
         if (e.target.classList.contains("zoom")) { e.stopPropagation(); openLB(img.path); return; }
-        grid.querySelectorAll(".thumb").forEach(t => t.classList.remove("sel"));
-        b.classList.add("sel"); selImg = img; update();
+        const i = selImgs.indexOf(img);
+        if (i >= 0) selImgs.splice(i, 1);
+        else if (selImgs.length >= 4) { toast("画像は最大4枚まで"); return; }
+        else selImgs.push(img);
+        renderSel();
       });
+      b._img = img;
       grid.appendChild(b);
     }
+    const strip = $(".strip", el);
+    function renderSel() {
+      grid.querySelectorAll(".thumb").forEach(t => {
+        const n = selImgs.indexOf(t._img);
+        t.classList.toggle("sel", n >= 0);
+        let badge = $(".ord", t);
+        if (n >= 0) {
+          if (!badge) { badge = document.createElement("span"); badge.className = "ord"; t.appendChild(badge); }
+          badge.textContent = n + 1;
+        } else if (badge) badge.remove();
+      });
+      strip.innerHTML = selImgs.length ? "" : '<span class="hint">まだ選んでいません</span>';
+      selImgs.forEach((img, n) => {
+        const it = document.createElement("div");
+        it.className = "sitem";
+        it.innerHTML = `<span class="snum">${n + 1}</span><img src="${esc(img.path)}" alt=""><div class="sbtns"><button type="button" class="mv l" ${n === 0 ? "disabled" : ""} aria-label="前へ">←</button><button type="button" class="rm" aria-label="外す">×</button><button type="button" class="mv r" ${n === selImgs.length - 1 ? "disabled" : ""} aria-label="後ろへ">→</button></div>`;
+        const swap = (a, b2) => { [selImgs[a], selImgs[b2]] = [selImgs[b2], selImgs[a]]; renderSel(); };
+        $(".l", it).addEventListener("click", () => n > 0 && swap(n, n - 1));
+        $(".r", it).addEventListener("click", () => n < selImgs.length - 1 && swap(n, n + 1));
+        $(".rm", it).addEventListener("click", () => { selImgs.splice(n, 1); renderSel(); });
+        strip.appendChild(it);
+      });
+      update();
+    }
+    renderSel();
     p.captions.forEach((c, i) => {
       const l = document.createElement("label");
       l.className = "cap";
@@ -100,11 +130,12 @@
     ta.addEventListener("input", update);
     update();
     ok.addEventListener("click", () => {
-      if (!selImg || !ta.value.trim()) return;
+      if (!ta.value.trim()) return;
+      if (!selImgs.length) { alert("画像を1枚以上えらんでください（最大4枚）"); return; }
       const pattern = selCap ? (ta.value === selCap.text ? selCap.pattern : selCap.pattern + "（編集）") : "自由入力";
-      const payload = { action: "ok", run: data.run, post: p.id, image: selImg.name, image_url: BASE + selImg.path,
-        caption_pattern: pattern, caption: ta.value };
-      const title = `OK ${data.run}/${p.id} ${selImg.name.replace(".jpg", "")} ${pattern}`;
+      const payload = { action: "ok", run: data.run, post: p.id, images: selImgs.map(i => i.name),
+        image_urls: selImgs.map(i => BASE + i.path), caption_pattern: pattern, caption: ta.value };
+      const title = `OK ${data.run}/${p.id} ${selImgs.map(i => i.name.replace(".jpg", "")).join(",")} ${pattern}`;
       window.open(issueURL("ok", title, payload), "_blank", "noopener");
       setSent(key, { action: "ok", at: Date.now() }); render();
     });
@@ -117,6 +148,19 @@
     return el;
   }
 
+  function savedInfo(info, p) {
+    const imgs = info.images || (info.image ? [info.image] : []);
+    const byName = Object.fromEntries((p.images || []).map(i => [i.name, i]));
+    const thumbs = imgs.map((n, k) => byName[n] ? `<span class="sv"><span class="snum">${k + 1}</span><img src="${esc(byName[n].path)}" alt="${esc(n)}"></span>` : `<span class="sv">${k + 1}. ${esc(n)}</span>`).join("");
+    return `<div class="done-info">保存済み${info.caption_pattern ? "（" + esc(info.caption_pattern) + "）" : ""}${info.buffer_idea_id ? " ID: " + esc(info.buffer_idea_id) : ""}${imgs.length ? `<div class="savedimgs">${thumbs}</div>` : (info.note ? "<br>" + esc(info.note) : "")}</div>`;
+  }
+  let toastT;
+  function toast(msg) {
+    let t = $("#toast");
+    if (!t) { t = document.createElement("div"); t.id = "toast"; document.body.appendChild(t); }
+    t.textContent = msg; t.classList.add("show");
+    clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove("show"), 1800);
+  }
   function openLB(src) { const lb = $("#lightbox"); $("img", lb).src = src; lb.hidden = false; }
   $("#lightbox").addEventListener("click", () => { $("#lightbox").hidden = true; });
 

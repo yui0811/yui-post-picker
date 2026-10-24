@@ -6,12 +6,13 @@ All scripts run from anywhere; they operate on the repo they live in
 ## pending.py
 `python3 /workspace/yui-post-picker/tools/pending.py`
 Prints a JSON array of open, unprocessed request issues authored by yui0811:
-`{number, action: "ok"|"delete", run, post, image, image_url, caption_pattern, caption}`
+`{number, action: "ok"|"delete", run, post, images: [..ordered, max 4], image_urls: [..same order], caption_pattern, caption}`
+(old issues with single `image`/`image_url` are converted to 1-element lists)
 or `{number, error}` if the body can't be parsed. Prints `[]` when nothing is pending.
 
 ## mark.py
 `python3 /workspace/yui-post-picker/tools/mark.py <issue_number> <result>`
-- `idea_saved:<buffer_idea_id>` → status.json state=idea_saved (+image, caption_pattern), comment「Bufferのアイデアに保存しました（ID: …）」
+- `idea_saved:<buffer_idea_id>` → status.json state=idea_saved (+images ordered list, caption_pattern), comment also lists the image order, comment「Bufferのアイデアに保存しました（ID: …）」
 - `deleted` → state=deleted, comment「候補から削除しました」
 - `error:<message>` → status.json untouched, comment「処理できませんでした: …」, label `error`
 Always adds label `processed` and closes the issue. status.json changes are committed and pushed.

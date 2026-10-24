@@ -2,12 +2,13 @@
 """Print unprocessed OK/delete requests from GitHub issues as a JSON array.
 
 Only open issues authored by yui0811 and without the `processed` label.
-Each item: {number, action, run, post, image, image_url, caption_pattern, caption}
+Each item: {number, action, run, post, images[], image_urls[], caption_pattern, caption}
+(images ordered, max 4; old single image/image_url bodies become 1-element lists)
 or {number, error} when the body can't be parsed. Prints [] when none.
 """
 import json, re, subprocess, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import REPO, OWNER
+from common import REPO, OWNER, PAGES_BASE
 
 FENCE = re.compile(r"```(?:json)?\s*\n(.*?)\n\s*```", re.S)
 
@@ -28,11 +29,27 @@ def parse(issue):
     run, post = str(d.get("run") or ""), str(d.get("post") or "")
     if not run or not post:
         return {"number": issue["number"], "error": "run/post がありません"}
+    images = d.get("images")
+    urls = d.get("image_urls")
+    if images is None and d.get("image"):  # old single-image format
+        images = [d["image"]]
+        urls = [d["image_url"]] if d.get("image_url") else None
+    if isinstance(images, str):
+        images = [images]
+    if isinstance(urls, str):
+        urls = [urls]
+    images = [str(x) for x in (images or []) if x]
+    urls = [str(x) for x in (urls or []) if x]
+    if images and len(urls) != len(images):
+        urls = [f"{PAGES_BASE}/runs/{run}/{post.zfill(2)}/{n}" for n in images]
     out = {"number": issue["number"], "action": action, "run": run, "post": post.zfill(2),
-           "image": d.get("image"), "image_url": d.get("image_url"),
+           "images": images, "image_urls": urls,
            "caption_pattern": d.get("caption_pattern"), "caption": d.get("caption")}
-    if action == "ok" and (not out["image"] or not out["caption"]):
-        return {"number": issue["number"], "error": "画像またはキャプションが未選択です"}
+    if action == "ok":
+        if not images or not out["caption"]:
+            return {"number": issue["number"], "error": "画像またはキャプションが未選択です"}
+        if len(images) > 4:
+            return {"number": issue["number"], "error": "画像は最大4枚までです"}
     return out
 
 
