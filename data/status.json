@@ -1,0 +1,64 @@
+{
+ "run2/01": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/02": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/03": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/04": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/05": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/06": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/07": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/08": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/09": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/10": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/11": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/12": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/13": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/14": {
+  "state": "pending",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ },
+ "run2/15": {
+  "state": "idea_saved",
+  "buffer_idea_id": "6adcba2b1ecac3674e87cc31",
+  "note": "画像なしで保存済み",
+  "updated_at": "2026-10-24T23:53:55+09:00"
+ }
+}

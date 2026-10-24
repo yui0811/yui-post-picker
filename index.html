@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>yui_ai_0811 投稿えらび</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <h1>yui_ai_0811 投稿えらび</h1>
+  <p class="note">OK/削除を押すとGitHubの画面が開くので『Submit new issue』を押してください。数分以内に反映します。</p>
+  <div class="controls">
+    <label>回: <select id="runSel"></select></label>
+    <label class="tog"><input type="checkbox" id="showDeleted"> 削除済みも表示</label>
+    <label class="tog"><input type="checkbox" id="showDone" checked> 保存済みも表示</label>
+    <button id="reload" type="button">再読み込み</button>
+  </div>
+  <p id="summary" class="summary"></p>
+</header>
+<main id="posts"><p class="loading">読み込み中…</p></main>
+<div id="lightbox" class="lightbox" hidden><img alt=""><button type="button" class="close">×</button></div>
+<script src="app.js"></script>
+</body>
+</html>
