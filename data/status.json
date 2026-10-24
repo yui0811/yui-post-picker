@@ -1,11 +1,21 @@
 {
  "run2/01": {
-  "state": "pending",
-  "updated_at": "2026-10-24T23:53:55+09:00"
+  "state": "idea_saved",
+  "updated_at": "2026-10-25T00:17:28+09:00",
+  "issue": 2,
+  "buffer_idea_id": "6adccc030e4d3aadcba55a4b",
+  "images": [
+   "cute2.jpg",
+   "cute1.jpg",
+   "cute4.jpg",
+   "cute5.jpg"
+  ],
+  "caption_pattern": "問いかけ（編集）"
  },
  "run2/02": {
-  "state": "pending",
-  "updated_at": "2026-10-24T23:53:55+09:00"
+  "state": "deleted",
+  "updated_at": "2026-10-25T00:17:31+09:00",
+  "issue": 3
  },
  "run2/03": {
   "state": "pending",

@@ -1,1 +1,21 @@
-{}
+{
+ "2": {
+  "0": {
+   "result": "idea_saved",
+   "buffer_idea_id": "6adccc030e4d3aadcba55a4b",
+   "at": "2026-10-25T00:17:28+09:00",
+   "run": "run2",
+   "post": "01",
+   "action": "ok"
+  }
+ },
+ "3": {
+  "0": {
+   "result": "deleted",
+   "at": "2026-10-25T00:17:31+09:00",
+   "run": "run2",
+   "post": "02",
+   "action": "delete"
+  }
+ }
+}
