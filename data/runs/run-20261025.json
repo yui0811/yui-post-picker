@@ -1,0 +1,1280 @@
+{
+ "run": "run-20261025",
+ "created_at": "2026-10-25T21:25:45+09:00",
+ "posts": [
+  {
+   "id": "01",
+   "title": "エメラルドのクラシカルロングドレス",
+   "source_url": "https://x.com/YFU_Collection/status/2114198381472174263",
+   "author": "YFU_Collection",
+   "posted_at": "2026-10-25T03:32:28.000Z",
+   "metrics": {
+    "likes": 277,
+    "reposts": 30,
+    "replies": 8,
+    "impressions": 5235,
+    "quotes": 11,
+    "bookmarks": 42
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/01/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/01/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/01/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/01/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/01/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/01/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/01/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/01/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/01/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "緑のロングワンピ、やっと着れた"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "ずっと気になってた深い緑のロングワンピ、今日やっと着て出かけた。レースの襟とブーツでちょっとクラシカルな感じ。石畳の道によく合ってた気がする。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "緑のロングワンピ、やっと着れた🌿"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "ずっと気になってた深い緑のロングワンピ、今日やっと着て出かけた🌿\nレースの襟とブーツでちょっとクラシカルな感じ。石畳の道によく合ってた気がする。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "この緑、秋っぽくていいと思わない？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "深い緑のロングワンピに茶色のベルトとブーツ合わせてみた。スカートのフリル、無くてもよかったかなってちょっと迷ってる。みんなはフリルあり派？なし派？"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "title": "ベージュのタートルニット秋ポートレート",
+   "source_url": "https://x.com/Knightkun2023/status/2114116473153376697",
+   "author": "Knightkun2023",
+   "posted_at": "2026-10-24T22:07:00.000Z",
+   "metrics": {
+    "likes": 113,
+    "reposts": 1,
+    "replies": 2,
+    "impressions": 6750,
+    "quotes": 0,
+    "bookmarks": 83
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/02/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/02/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/02/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/02/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/02/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/02/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/02/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/02/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/02/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "公園の木、だいぶ色づいてた"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "近くの公園に行ったら木がだいぶ色づいてた。空も高くて気持ちよかった。ベージュのニット、秋になるとつい着たくなる。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "公園の木、だいぶ色づいてた🍁"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "近くの公園に行ったら木がだいぶ色づいてた🍁\n空も高くて気持ちよかった。ベージュのニット、秋になるとつい着たくなる。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "もう紅葉見に行った？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "近所の公園、気づいたら木がけっこう色づいてた。今年は紅葉ちゃんと見に行きたいなって思ってる。みんなのおすすめの場所ある？"
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "title": "ゴシック・ファー・コーデ",
+   "source_url": "https://x.com/zeroban_noriba/status/2114235507185963358",
+   "author": "zeroban_noriba",
+   "posted_at": "2026-10-25T06:00:00.000Z",
+   "metrics": {
+    "likes": 109,
+    "reposts": 30,
+    "replies": 1,
+    "impressions": 1443,
+    "quotes": 1,
+    "bookmarks": 6
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/03/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/03/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/03/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/03/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/03/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/03/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/03/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/03/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/03/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "冬っぽいゴシックにしてみた"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "寒くなってきたからファー付きのコートでゴシック寄りにしてみた。ベレー帽のぽんぽんが地味にお気に入り。マフ持ってると手があったかい。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "冬っぽいゴシックにしてみた🖤"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "寒くなってきたからファー付きのコートでゴシック寄りにしてみた🖤\nベレー帽のぽんぽんが地味にお気に入り。マフ持ってると手があったかい❄️"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "黒×白ファーってかわいくない？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "黒いベルベットのコートに白いファーがついてるのを見つけて即決した。ゴシックっぽいけど甘さもあって好き。みんなはベレー帽とミニハットどっち派？"
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "title": "ペーパークイリングのクチュールドレス",
+   "source_url": "https://x.com/yourPlugAI/status/2114219176646586620",
+   "author": "yourPlugAI",
+   "posted_at": "2026-10-25T04:55:06.000Z",
+   "metrics": {
+    "likes": 105,
+    "reposts": 7,
+    "replies": 97,
+    "impressions": 979,
+    "quotes": 0,
+    "bookmarks": 5
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/04/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/04/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/04/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/04/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/04/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/04/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/04/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/04/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/04/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "紙みたいなドレス着せてもらった"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "撮影でリボンを重ねたみたいなドレスを着せてもらった。近くで見ると紙を巻いたみたいで細かい。色もピンクと黄緑で思ったより派手だった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "紙みたいなドレス着せてもらった👗"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "撮影でリボンを重ねたみたいなドレスを着せてもらった👗\n近くで見ると紙を巻いたみたいで細かい。色もピンクと黄緑で思ったより派手だった✨"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "この色の組み合わせ、どう思う？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "撮影でリボンを何重にも重ねたドレスを着た。ピンクと黄緑のグラデーションで、最初はびっくりしたけど写真だとけっこう好き。みんなならどの色で着てみたい？"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "title": "エーゲ海の白レースサンドレス",
+   "source_url": "https://x.com/muse_ai_prompt/status/2114121820152754355",
+   "author": "muse_ai_prompt",
+   "posted_at": "2026-10-24T22:28:15.000Z",
+   "metrics": {
+    "likes": 92,
+    "reposts": 4,
+    "replies": 1,
+    "impressions": 5917,
+    "quotes": 2,
+    "bookmarks": 60
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/05/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/05/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/05/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/05/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/05/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/05/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/05/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/05/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/05/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "海、思ったより青かった"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "砂浜でタオル敷いてずっとごろごろしてた。海が思ったより青くて、写真撮っても全然伝わらない。風がちょうどよくて眠くなった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "海、思ったより青かった🌊"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "砂浜でタオル敷いてずっとごろごろしてた🏖️\n海が思ったより青くて、写真撮っても全然伝わらない。風がちょうどよくて眠くなった☀️"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "海でのんびりするの好き？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "砂浜でなにもしないでごろごろするだけの午後。こういう日がいちばん贅沢な気がする。みんなは海だと泳ぐ派？のんびりする派？"
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "title": "夕焼け公園のドットブラウス",
+   "source_url": "https://x.com/kawagoe_ai/status/2114259918651887781",
+   "author": "kawagoe_ai",
+   "posted_at": "2026-10-25T07:37:00.000Z",
+   "metrics": {
+    "likes": 63,
+    "reposts": 4,
+    "replies": 13,
+    "impressions": 1480,
+    "quotes": 1,
+    "bookmarks": 5
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/06/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/06/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/06/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/06/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/06/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/06/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/06/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/06/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/06/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "夕焼けがきれいでもう少し歩いてた"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "風はちょっと冷たかったけど、夕焼けがすごくきれいで帰るのやめてもう少し歩いた。水玉のブラウス、オレンジの光で色がいい感じに見えた。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "夕焼けがきれいでもう少し歩いてた🌇"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "風はちょっと冷たかったけど、夕焼けがすごくきれいで帰るのやめてもう少し歩いた🌇\n水玉のブラウス、オレンジの光で色がいい感じに見えた。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "夕方の公園、好きな人いる？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "今日は風が冷たかったけど夕焼けがきれいで、帰り道ちょっと遠回りした。水玉のブラウスに白いスカート合わせてみたよ。みんなは一日のうちでいつの空が好き？"
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "title": "ハロウィンのナイショ",
+   "source_url": "https://x.com/kawagoe_ai/status/2114010682844987488",
+   "author": "kawagoe_ai",
+   "posted_at": "2026-10-24T15:06:37.000Z",
+   "metrics": {
+    "likes": 60,
+    "reposts": 2,
+    "replies": 7,
+    "impressions": 1670,
+    "quotes": 0,
+    "bookmarks": 3
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/07/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/07/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/07/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/07/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/07/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/07/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/07/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/07/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/07/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "ハロウィンだからかぼちゃ出した"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "部屋にちょっとだけハロウィンの飾り出した。かぼちゃのキャンドルつけたら一気に雰囲気出てうれしい。ニットは袖長めのお気に入り。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "ハロウィンだからかぼちゃ出した🎃"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "部屋にちょっとだけハロウィンの飾り出した🎃\nかぼちゃのキャンドルつけたら一気に雰囲気出てうれしい🕯️ニットは袖長めのお気に入り。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "ハロウィン、なにかする？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "今年はお出かけしないで、部屋にかぼちゃのキャンドル置いてちょっとだけハロウィン気分。暗くするとけっこう雰囲気あるね。みんなはハロウィンなにして過ごす？"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "title": "ニット×サテンの秋コーデ",
+   "source_url": "https://x.com/luche_whitewing/status/2114180142851338455",
+   "author": "luche_whitewing",
+   "posted_at": "2026-10-25T02:20:00.000Z",
+   "metrics": {
+    "likes": 47,
+    "reposts": 13,
+    "replies": 2,
+    "impressions": 1239,
+    "quotes": 0,
+    "bookmarks": 3
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/08/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/08/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/08/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/08/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/08/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/08/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/08/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/08/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/08/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "秋はサテンのスカートばっかり履いてる"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "白のタートルにベージュのサテンスカート。色は地味なんだけど、素材が違うだけでちゃんとして見える気がする。秋はこればっかり履いてる。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "秋はサテンのスカートばっかり履いてる🍂"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "白のタートルにベージュのサテンスカート🤍\n色は地味なんだけど、素材が違うだけでちゃんとして見える気がする。秋はこればっかり履いてる🍂"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "素材で遊ぶ派？色で遊ぶ派？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "今日は白のリブニットとベージュのサテンスカート。色は抑えめにして、素材の違いで遊んでみた。みんなはコーデ考えるとき、素材から決める？色から決める？"
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "title": "カフェテラスのオフショルニット",
+   "source_url": "https://x.com/Mio_ai_sweet/status/2114114721305559278",
+   "author": "Mio_ai_sweet",
+   "posted_at": "2026-10-24T22:00:02.000Z",
+   "metrics": {
+    "likes": 37,
+    "reposts": 1,
+    "replies": 4,
+    "impressions": 283,
+    "quotes": 0,
+    "bookmarks": 0
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/09/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/09/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/09/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/09/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/09/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/09/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/09/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/09/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/09/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "朝はカフェのテラス席でのんびり"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "朝ちょっと早く起きたからカフェのテラス席でのんびりしてた。外の席、まだ寒すぎなくてちょうどいい。白のトップスにデニムでいちばん楽な格好。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "朝はカフェのテラス席でのんびり☕"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "朝ちょっと早く起きたからカフェのテラス席でのんびりしてた☕\n外の席、まだ寒すぎなくてちょうどいい。白のトップスにデニムでいちばん楽な格好。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "カフェってテラス席派？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "朝のカフェでテラス席に座ってみた。風が気持ちよくて、コーヒー1杯でずっといられそう。みんなはカフェだと店内派？テラス派？"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "title": "砂漠と風になびく髪",
+   "source_url": "https://x.com/SakiH_AI/status/2113993077555868052",
+   "author": "SakiH_AI",
+   "posted_at": "2026-10-24T13:56:40.000Z",
+   "metrics": {
+    "likes": 35,
+    "reposts": 2,
+    "replies": 3,
+    "impressions": 813,
+    "quotes": 0,
+    "bookmarks": 12
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/10/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/10/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/10/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/10/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/10/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/10/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/10/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/10/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/10/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "風が強すぎて髪が大変だった"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "砂丘まで来たけど風が強すぎて髪がずっと大変だった。空が真っ青で砂が白くて、どこ撮っても絵になる。白い服にしてよかった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "風が強すぎて髪が大変だった🌬️"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "砂丘まで来たけど風が強すぎて髪がずっと大変だった🌬️\n空が真っ青で砂が白くて、どこ撮っても絵になる。白い服にしてよかった☀️"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "砂丘って行ったことある？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "はじめて砂丘に来てみた。思ったより広くて、風が強くて髪がぐちゃぐちゃ。でも空がすごく青くて気持ちよかった。みんなは行ったことある？"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "title": "パワースーツのエディトリアル",
+   "source_url": "https://x.com/dreamydigiarts/status/2113986367831064971",
+   "author": "dreamydigiarts",
+   "posted_at": "2026-10-24T13:30:00.000Z",
+   "metrics": {
+    "likes": 27,
+    "reposts": 0,
+    "replies": 2,
+    "impressions": 761,
+    "quotes": 0,
+    "bookmarks": 11
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/11/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/11/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/11/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/11/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/11/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/11/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/11/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/11/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/11/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "スーツっぽいのはじめて着た"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "撮影でかっこいい系のスーツ着せてもらった。ネクタイとか手袋、普段しないからちょっと照れる。でも写真見たら意外と悪くなかった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "スーツっぽいのはじめて着た👔"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "撮影でかっこいい系のスーツ着せてもらった👔\nネクタイとか手袋、普段しないからちょっと照れる。でも写真見たら意外と悪くなかった✨"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "かっこいい系も似合う？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "いつもはかわいい系の服が多いけど、今回はストライプのジャケットにネクタイでかっこいい系にしてみた。自分じゃないみたいで新鮮。こういうのもアリかな？"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "title": "ラベンダー畑のフリルキャミ",
+   "source_url": "https://x.com/muse_ai_prompt/status/2114124562246066326",
+   "author": "muse_ai_prompt",
+   "posted_at": "2026-10-24T22:39:08.000Z",
+   "metrics": {
+    "likes": 26,
+    "reposts": 0,
+    "replies": 3,
+    "impressions": 1040,
+    "quotes": 1,
+    "bookmarks": 5
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/12/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/12/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/12/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/12/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/12/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/12/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/12/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/12/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/12/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "ラベンダー畑、一面むらさきだった"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "ラベンダー畑に行ってきた。一面むらさきで、しゃがむと香りがすごい。日差しが強かったけど風があって気持ちよかった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "ラベンダー畑、一面むらさきだった💜"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "ラベンダー畑に行ってきた💜\n一面むらさきで、しゃがむと香りがすごい。日差しが強かったけど風があって気持ちよかった🌿"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "ラベンダーの香り好き？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "ラベンダー畑に行ったら香りが強くてびっくりした。帰りにポプリ買っちゃった。みんなはお花畑だと何の花が好き？"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "title": "秋の妖精ガーリー",
+   "source_url": "https://x.com/ai_girl_mai/status/2114244502127014136",
+   "author": "ai_girl_mai",
+   "posted_at": "2026-10-25T06:35:44.000Z",
+   "metrics": {
+    "likes": 24,
+    "reposts": 2,
+    "replies": 5,
+    "impressions": 653,
+    "quotes": 1,
+    "bookmarks": 5
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/13/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/13/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/13/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/13/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/13/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/13/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/13/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/13/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/13/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "黄色のケープ、秋っぽくて好き"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "黄色のケープに緑のスカート合わせてみた。ケープの刺繍が葉っぱとどんぐりで、近くで見るとかわいい。落ち葉の公園によく合ってた。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "黄色のケープ、秋っぽくて好き🍁"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "黄色のケープに緑のスカート合わせてみた🍁\nケープの刺繍が葉っぱとどんぐりで、近くで見るとかわいい🌰落ち葉の公園によく合ってた。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "ケープって秋に着たくならない？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "黄色のケープに白のフリルブラウスと緑のプリーツスカート。ちょっと甘めにしてみた。靴下とバッグも茶色でそろえたけど、まとまって見えるかな？"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "title": "清楚な白リブニット",
+   "source_url": "https://x.com/moburin01/status/2114139818095685647",
+   "author": "moburin01",
+   "posted_at": "2026-10-24T23:39:46.000Z",
+   "metrics": {
+    "likes": 23,
+    "reposts": 0,
+    "replies": 1,
+    "impressions": 2384,
+    "quotes": 1,
+    "bookmarks": 14
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/14/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/14/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261025/14/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/14/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/14/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/14/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/14/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261025/14/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261025/14/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "休みの日は白ニットで家にいる"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "今日はどこにも出かけないで家でのんびり。白のニット、楽だしいちばん落ち着く。窓からの光がちょうどよかったから一枚だけ撮った。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "休みの日は白ニットで家にいる🤍"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "今日はどこにも出かけないで家でのんびり🤍\n白のニット、楽だしいちばん落ち着く。窓からの光がちょうどよかったから一枚だけ撮った📷"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "おうちの日って何してる？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "今日は一日家にいた。白のニットで、お茶飲んで、ちょっと片付けして終わった。こういう日もいいよね。みんなはおうちの日って何して過ごしてる？"
+    }
+   ]
+  }
+ ]
+}
