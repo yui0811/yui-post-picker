@@ -1,6 +1,6 @@
 {
  "run": "run-20261026",
- "created_at": "2026-10-26T21:25:43+09:00",
+ "created_at": "2026-10-26T21:31:08+09:00",
  "posts": [
   {
    "id": "01",
@@ -1091,6 +1091,279 @@
     {
      "pattern": "問いかけ長文",
      "text": "友達の結婚式で白っぽいドレス着させてもらった。いつか自分のときはどんなドレスにしようかなって考えちゃった。みんなは結婚式で着たい色ってある？"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "title": "セージグリーンのシフォンドレス",
+   "source_url": "https://x.com/Minahil42298354/status/2114628357107138764",
+   "author": "Minahil42298354",
+   "posted_at": "2026-10-26T08:01:02.000Z",
+   "metrics": {
+    "likes": 54,
+    "reposts": 5,
+    "replies": 28,
+    "impressions": 667,
+    "quotes": 0,
+    "bookmarks": 9
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/13/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/13/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/13/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/13/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/13/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/13/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/13/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/13/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/13/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "くすみグリーンのワンピ"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "くすんだグリーンのワンピース、やっと着る機会ができた。袖がふわっとしてて動くたびにかわいい。お庭の白い花とも合ってた。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "くすみグリーンのワンピ🌿"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "くすんだグリーンのワンピース、やっと着る機会ができた🌿\n袖がふわっとしてて動くたびにかわいい。お庭の白い花とも合ってた🤍"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "くすみカラー好き？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "最近くすみカラーの服ばっかり気になる。このセージグリーンのワンピも一目ぼれだった。みんなの好きなくすみカラーって何色？"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "title": "ナースステーションの一コマ",
+   "source_url": "https://x.com/toshi630222/status/2114600915173093753",
+   "author": "toshi630222",
+   "posted_at": "2026-10-26T06:12:00.000Z",
+   "metrics": {
+    "likes": 53,
+    "reposts": 5,
+    "replies": 9,
+    "impressions": 1735,
+    "quotes": 1,
+    "bookmarks": 2
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/14/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/14/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/14/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/14/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/14/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/14/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/14/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/14/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/14/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "今日も記録書いて一日終わった"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "今日もほとんど記録書いて終わった気がする。座って書いてるときがいちばん落ち着く。明日もがんばる。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "今日も記録書いて一日終わった📋"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "今日もほとんど記録書いて終わった気がする📋\n座って書いてるときがいちばん落ち着く。明日もがんばる💪"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "お仕事お疲れさまって言ってほしい"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "今日もばたばたしてたけどなんとか終わった。ナース服、最初は慣れなかったけど今はけっこう好き。みんなも今日一日お疲れさま。何してた？"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "title": "ピンクのウインドブレーカー×スニーカー",
+   "source_url": "https://x.com/meng_dagg695/status/2114357823807070438",
+   "author": "meng_dagg695",
+   "posted_at": "2026-10-25T14:06:02.000Z",
+   "metrics": {
+    "likes": 52,
+    "reposts": 2,
+    "replies": 33,
+    "impressions": 1097,
+    "quotes": 0,
+    "bookmarks": 12
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/15/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/15/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/15/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/15/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/15/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/15/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/15/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/15/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/15/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "スニーカーの撮影してきた"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "スニーカーの撮影でピンクのウインドブレーカー着た。靴がすごくごつくて、寄りで撮るとほぼ靴しか写らない。背景の色がかわいかった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "スニーカーの撮影してきた👟"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "スニーカーの撮影でピンクのウインドブレーカー着た👟\n靴がすごくごつくて、寄りで撮るとほぼ靴しか写らない。背景の色がかわいかった💗"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "ごついスニーカー派？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "最近ごついスニーカーが気になってる。足が小さく見える気がするし、ピンクの服とも合う。みんなはぺたんこ派？厚底派？"
     }
    ]
   }
