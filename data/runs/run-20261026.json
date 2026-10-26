@@ -1,6 +1,6 @@
 {
  "run": "run-20261026",
- "created_at": "2026-10-26T21:36:33+09:00",
+ "created_at": "2026-10-26T21:39:56+09:00",
  "posts": [
   {
    "id": "01",
@@ -1637,6 +1637,188 @@
     {
      "pattern": "問いかけ長文",
      "text": "いつもはかわいい系が多いけど、たまにこういうクールな服も着たくなる。バンダナってどう巻くのが正解なんだろ。みんなはどっち系が好き？"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "title": "コンクリート通路のレザージャケット",
+   "source_url": "https://x.com/ChillaiKalan__/status/2114593231640170868",
+   "author": "ChillaiKalan__",
+   "posted_at": "2026-10-26T05:41:28.000Z",
+   "metrics": {
+    "likes": 44,
+    "reposts": 0,
+    "replies": 26,
+    "impressions": 6502,
+    "quotes": 0,
+    "bookmarks": 4
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/19/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/19/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/19/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/19/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/19/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/19/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/19/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/19/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/19/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "レザージャケットの季節"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "やっとレザージャケットが着れる気温になった。ボルドーのブラウスとワイドパンツに合わせて、ちょっと大人っぽくしてみた。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "レザージャケットの季節🍂"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "やっとレザージャケットが着れる気温になった🍂\nボルドーのブラウスとワイドパンツに合わせて、ちょっと大人っぽくしてみた。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "秋のアウター何着てる？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "秋のアウターってほんとに迷う。今年はオリーブのレザージャケットにした。みんなはもうアウター出した？何着てるか教えてほしい"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "title": "夕暮れボードウォークのパステルピンク",
+   "source_url": "https://x.com/jiwooteasing/status/2114522773381120313",
+   "author": "jiwooteasing",
+   "posted_at": "2026-10-26T01:01:29.000Z",
+   "metrics": {
+    "likes": 43,
+    "reposts": 2,
+    "replies": 2,
+    "impressions": 851,
+    "quotes": 0,
+    "bookmarks": 7
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/20/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/20/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/20/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/20/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/20/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/20/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/20/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/20/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/20/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "夕日の色とピンクが合ってた"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "夕方のボードウォークでお散歩してた。ピンクのトップが夕日の色と合ってて、自分でもちょっとうれしかった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "夕日の色とピンクが合ってた🩷"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "夕方のボードウォークでお散歩してた🌇\nピンクのトップが夕日の色と合ってて、自分でもちょっとうれしかった🩷"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "夕日のせい？ピンクのせい？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "夕日のおかげなのか、ピンクのおかげなのか、今日はなんか顔色よく撮れた気がする。みんなは自分に似合う色ってわかってる？"
     }
    ]
   }
