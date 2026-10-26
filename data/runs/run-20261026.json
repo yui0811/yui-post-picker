@@ -1,6 +1,6 @@
 {
  "run": "run-20261026",
- "created_at": "2026-10-26T21:31:08+09:00",
+ "created_at": "2026-10-26T21:36:33+09:00",
  "posts": [
   {
    "id": "01",
@@ -1364,6 +1364,279 @@
     {
      "pattern": "問いかけ長文",
      "text": "最近ごついスニーカーが気になってる。足が小さく見える気がするし、ピンクの服とも合う。みんなはぺたんこ派？厚底派？"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "title": "眼鏡とお団子の大人っぽコーデ",
+   "source_url": "https://x.com/JohnSmith5912/status/2114524557927485655",
+   "author": "JohnSmith5912",
+   "posted_at": "2026-10-26T01:08:35.000Z",
+   "metrics": {
+    "likes": 49,
+    "reposts": 0,
+    "replies": 7,
+    "impressions": 1406,
+    "quotes": 0,
+    "bookmarks": 40
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/16/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/16/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/16/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/16/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/16/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/16/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/16/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/16/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/16/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "今日はメガネの日"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "コンタクトの気分じゃなかったから今日はメガネの日。丸いメガネ、ちょっとだけ大人っぽく見える気がする。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "今日はメガネの日👓"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "コンタクトの気分じゃなかったから今日はメガネの日👓\n丸いメガネ、ちょっとだけ大人っぽく見える気がする。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "メガネとコンタクトどっち派？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "最近メガネで出かけることが増えた。楽だし、顔の印象も変わっておもしろい。みんなはメガネ派？コンタクト派？"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "title": "黒ドレスとゴールドヘッドホン",
+   "source_url": "https://x.com/Emmma___0/status/2114602074008965591",
+   "author": "Emmma___0",
+   "posted_at": "2026-10-26T06:16:36.000Z",
+   "metrics": {
+    "likes": 49,
+    "reposts": 3,
+    "replies": 10,
+    "impressions": 503,
+    "quotes": 0,
+    "bookmarks": 2
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/17/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/17/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/17/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/17/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/17/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/17/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/17/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/17/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/17/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "ヘッドホン新しくした"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "ずっと欲しかった金色のヘッドホン買った。黒い服に合わせると思ったより映える。音もいいし毎日つけたい。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "ヘッドホン新しくした🎧"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "ずっと欲しかった金色のヘッドホン買った🎧\n黒い服に合わせると思ったより映える。音もいいし毎日つけたい🖤"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "最近何聴いてる？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "新しいヘッドホンで音楽聴きまくってる。好きな曲を全部聴き直したくなる。みんなが最近よく聴いてる曲知りたい"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "title": "スレートグリーンTとバンダナのクール系",
+   "source_url": "https://x.com/Tanvir48992/status/2114323997492236546",
+   "author": "Tanvir48992",
+   "posted_at": "2026-10-25T11:51:37.000Z",
+   "metrics": {
+    "likes": 47,
+    "reposts": 1,
+    "replies": 22,
+    "impressions": 1368,
+    "quotes": 1,
+    "bookmarks": 10
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/18/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/18/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261026/18/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/18/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/18/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/18/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/18/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261026/18/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261026/18/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "今日はちょっとクールめ"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "今日はちょっとクールめな気分で、バンダナ巻いてレザーパンツ合わせた。普段あんまりしない格好だから新鮮だった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "今日はちょっとクールめ🖤"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "今日はちょっとクールめな気分で、バンダナ巻いてレザーパンツ合わせた🖤\n普段あんまりしない格好だから新鮮だった。"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "かわいい系とかっこいい系どっちが好き？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "いつもはかわいい系が多いけど、たまにこういうクールな服も着たくなる。バンダナってどう巻くのが正解なんだろ。みんなはどっち系が好き？"
     }
    ]
   }
