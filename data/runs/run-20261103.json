@@ -1,6 +1,6 @@
 {
  "run": "run-20261103",
- "created_at": "2026-11-03T21:07:10+09:00",
+ "created_at": "2026-11-03T21:11:58+09:00",
  "posts": [
   {
    "id": "01",
@@ -636,6 +636,279 @@
     {
      "pattern": "問いかけ長文",
      "text": "夜の街ってなんでこんなにわくわくするんだろう。看板の光がフィルムっぽくて、ずっと写真撮ってた。夜の街って好き？"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "title": "コーラルのニットワンピでアームチェアに",
+   "source_url": "https://x.com/antrospike/status/2117546071492612235",
+   "author": "antrospike",
+   "posted_at": "2026-11-03T09:15:00.000Z",
+   "metrics": {
+    "likes": 35,
+    "reposts": 2,
+    "replies": 19,
+    "impressions": 357,
+    "quotes": 0,
+    "bookmarks": 2
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/08/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/08/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/08/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/08/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/08/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/08/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/08/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/08/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/08/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "コーラル色"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "秋っぽいコーラルのニットワンピ。ゴールドのアクセと合わせたら落ち着いた感じになった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "今日の色🧡"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "コーラルオレンジのワンピース🧡\nゴールドの時計も合わせてみた✨"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "オレンジ系着る？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "普段あんまり着ない色に挑戦。コーラルなら派手すぎなくていいかも。みんなはオレンジ系の服って着る？"
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "title": "ミニーカチューシャと黒サテン",
+   "source_url": "https://x.com/Ankit_patel211/status/2117246870066196595",
+   "author": "Ankit_patel211",
+   "posted_at": "2026-11-02T13:26:05.000Z",
+   "metrics": {
+    "likes": 34,
+    "reposts": 1,
+    "replies": 2,
+    "impressions": 2739,
+    "quotes": 1,
+    "bookmarks": 11
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/09/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/09/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/09/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/09/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/09/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/09/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/09/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/09/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/09/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "ミニーちゃん"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "ミニーのカチューシャ、つけるだけでテンション上がる。ドレスは黒でシンプルにした。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "カチューシャの日🎀"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "ミニーのカチューシャ出てきた🎀\n黒のドレスと合わせてみた🖤"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "またパーク行きたい人？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "クローゼットからミニーのカチューシャが出てきて、思わずつけちゃった。またパーク行きたくなる。みんなも行きたくない？"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "title": "ラベンダー畑でオーガンザの袖",
+   "source_url": "https://x.com/antrospike/status/2117334678965469530",
+   "author": "antrospike",
+   "posted_at": "2026-11-02T19:15:00.000Z",
+   "metrics": {
+    "likes": 34,
+    "reposts": 4,
+    "replies": 20,
+    "impressions": 519,
+    "quotes": 0,
+    "bookmarks": 3
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/10/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/10/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/10/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/10/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/10/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/10/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/10/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/10/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/10/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "ラベンダー色"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "ふわふわの袖が風に揺れて、ずっと腕を上げてた。お花のにおいがすごかった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "お花の中で💜"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "ラベンダーと紫陽花の中で撮ってもらった💜\n袖がふわふわでお気に入り🌸"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "紫って好き？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "夕方のお庭がきれいすぎた。全身ラベンダー色でまとめたら、お花と同化してた。みんな紫って好き？"
     }
    ]
   }
