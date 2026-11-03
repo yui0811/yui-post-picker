@@ -1,6 +1,6 @@
 {
  "run": "run-20261103",
- "created_at": "2026-11-03T21:19:19+09:00",
+ "created_at": "2026-11-03T21:24:53+09:00",
  "posts": [
   {
    "id": "01",
@@ -1273,6 +1273,279 @@
     {
      "pattern": "問いかけ長文",
      "text": "ちょっとだけ秋っぽくなってきた公園へ。ベルベットの生地がやわらかくて一日うれしかった。今年は紅葉見に行く？"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "title": "必殺技で瓶のふたを開ける",
+   "source_url": "https://x.com/airi_desigh7/status/2117572643016610157",
+   "author": "airi_desigh7",
+   "posted_at": "2026-11-03T11:00:35.000Z",
+   "metrics": {
+    "likes": 22,
+    "reposts": 1,
+    "replies": 3,
+    "impressions": 278,
+    "quotes": 0,
+    "bookmarks": 2
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/15/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/15/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/15/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/15/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/15/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/15/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/15/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/15/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/15/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "やっと開いた"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "ジャムの瓶がかたすぎて、最後は必殺技みたいな気持ちで開けた。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "全力で開けた🫙"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "瓶のふたと本気で戦った🫙\n勝った✨"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "瓶のふた開けられる？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "どうしても開かないジャムの瓶、全力でひねったら開いた。開いた瞬間ちょっと光って見えた気がする。みんなは固いふた開けられる派？"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "title": "荒野で力をためる女戦士",
+   "source_url": "https://x.com/rexxarbpk/status/2117418282663936058",
+   "author": "rexxarbpk",
+   "posted_at": "2026-11-03T00:47:12.000Z",
+   "metrics": {
+    "likes": 21,
+    "reposts": 0,
+    "replies": 7,
+    "impressions": 1714,
+    "quotes": 1,
+    "bookmarks": 11
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/16/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/16/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/16/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/16/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/16/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/16/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/16/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/16/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/16/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "充電中"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "今週もがんばるために、ちょっとだけ気合い入れてみた。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "パワーためてる⚡"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "今日は気合い入れる日⚡\nなんでもできる気がする🔥"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "元気出したいときどうしてる？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "ちょっと疲れてたから、全力で気合いをためるポーズしてみた。不思議と元気出た。みんなは元気出したいときどうしてる？"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "title": "ブルーグレーのゆるふわ部屋着で朝コーヒー",
+   "source_url": "https://x.com/wolfbeauty_ai/status/2117391359833460905",
+   "author": "wolfbeauty_ai",
+   "posted_at": "2026-11-02T23:00:14.000Z",
+   "metrics": {
+    "likes": 19,
+    "reposts": 1,
+    "replies": 0,
+    "impressions": 1068,
+    "quotes": 0,
+    "bookmarks": 4
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/17/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/17/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/17/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/17/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/17/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/17/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/17/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/17/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/17/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "朝のコーヒー"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "寒い朝はコーヒーがいちばんおいしい。部屋着のまま窓のところで飲んでた。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "朝コーヒー☕️"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "寒い朝はコーヒー☕️\nブルーグレーの部屋着お気に入り🩵"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "朝はコーヒー派？紅茶派？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "最近朝がすごく寒い。あったかいコーヒー飲んでやっと目が覚める。みんなは朝コーヒー派？紅茶派？"
     }
    ]
   }
