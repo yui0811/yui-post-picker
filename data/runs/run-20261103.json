@@ -1,6 +1,6 @@
 {
  "run": "run-20261103",
- "created_at": "2026-11-03T21:11:58+09:00",
+ "created_at": "2026-11-03T21:19:19+09:00",
  "posts": [
   {
    "id": "01",
@@ -909,6 +909,370 @@
     {
      "pattern": "問いかけ長文",
      "text": "夕方のお庭がきれいすぎた。全身ラベンダー色でまとめたら、お花と同化してた。みんな紫って好き？"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "title": "ラベンダーの花コルセット",
+   "source_url": "https://x.com/dreamydigiarts/status/2117474350152749398",
+   "author": "dreamydigiarts",
+   "posted_at": "2026-11-03T04:30:00.000Z",
+   "metrics": {
+    "likes": 31,
+    "reposts": 0,
+    "replies": 3,
+    "impressions": 721,
+    "quotes": 0,
+    "bookmarks": 10
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/11/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/11/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/11/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/11/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/11/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/11/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/11/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/11/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/11/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "お花のコルセット"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "コルセットにお花がいっぱいついてて、着た瞬間うれしくなった。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "ラベンダー💜"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "お花つきのコルセット💜\n白いパンツと合わせてみた🤍"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "コルセット着る？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "最近気になってたコルセットを、ブラウスに重ねて着てみた。お花の飾りがかわいくて写真たくさん撮っちゃった。コルセットって着る？"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "title": "バーガンディのドレスで夜の自撮り",
+   "source_url": "https://x.com/prompt2llife/status/2117331984603042106",
+   "author": "prompt2llife",
+   "posted_at": "2026-11-02T19:04:17.000Z",
+   "metrics": {
+    "likes": 31,
+    "reposts": 1,
+    "replies": 5,
+    "impressions": 1455,
+    "quotes": 2,
+    "bookmarks": 13
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/12/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/12/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/12/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/12/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/12/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/12/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/12/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/12/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/12/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "ドレスの夜"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "ちょっとしたパーティーの帰り。ドレスがキラキラしてたから、外で一枚だけ自撮り。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "ドレスの日🍷"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "バーガンディのドレス着た🍷\nフラッシュで撮るとキラキラ✨"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "ドレスの色なに派？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "パーティーで、初めて深いワインレッドのドレスを着てみた。思ったより大人っぽくなって自分でびっくり。ドレスならなに色が好き？"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "title": "ゲーミングチェアの女の子",
+   "source_url": "https://x.com/johnAGI168/status/2117283843875160316",
+   "author": "johnAGI168",
+   "posted_at": "2026-11-02T15:53:00.000Z",
+   "metrics": {
+    "likes": 30,
+    "reposts": 3,
+    "replies": 3,
+    "impressions": 2124,
+    "quotes": 0,
+    "bookmarks": 20
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/13/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/13/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/13/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/13/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/13/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/13/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/13/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/13/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/13/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "ゲームの時間"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "夜はゲームの時間。ヘッドセットつけると一気に集中モード。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "今日もゲーム🎮"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "寝る前にちょっとだけのつもりが🎮\n気づいたらこんな時間🌙"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "なんのゲームしてる？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "最近また夜にゲームするのが楽しい。椅子を新しくしたら長時間でも疲れにくくなった。みんなは今なんのゲームしてる？"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "title": "ベルベットのドレスで秋の公園",
+   "source_url": "https://x.com/cuteaiimage25d/status/2117410035705995562",
+   "author": "cuteaiimage25d",
+   "posted_at": "2026-11-03T00:14:26.000Z",
+   "metrics": {
+    "likes": 30,
+    "reposts": 2,
+    "replies": 1,
+    "impressions": 434,
+    "quotes": 1,
+    "bookmarks": 0
+   },
+   "images": [
+    {
+     "name": "base1.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/14/base1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/base1.jpg"
+    },
+    {
+     "name": "base2.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/14/base2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/base2.jpg"
+    },
+    {
+     "name": "base3.jpg",
+     "kind": "base",
+     "path": "runs/run-20261103/14/base3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/base3.jpg"
+    },
+    {
+     "name": "cute1.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/14/cute1.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/cute1.jpg"
+    },
+    {
+     "name": "cute2.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/14/cute2.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/cute2.jpg"
+    },
+    {
+     "name": "cute3.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/14/cute3.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/cute3.jpg"
+    },
+    {
+     "name": "cute4.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/14/cute4.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/cute4.jpg"
+    },
+    {
+     "name": "cute5.jpg",
+     "kind": "cute",
+     "path": "runs/run-20261103/14/cute5.jpg",
+     "url": "https://yui0811.github.io/yui-post-picker/runs/run-20261103/14/cute5.jpg"
+    }
+   ],
+   "captions": [
+    {
+     "pattern": "シンプル",
+     "text": "秋の公園"
+    },
+    {
+     "pattern": "シンプル長文",
+     "text": "公園の木が少しずつ色づいてきてた。ベルベットのワンピース、秋になったら着たかったやつ。"
+    },
+    {
+     "pattern": "絵文字",
+     "text": "ベルベット🍁"
+    },
+    {
+     "pattern": "絵文字長文",
+     "text": "ベルベットのワンピースでお散歩🍁\n木がちょっと黄色くなってた🍂"
+    },
+    {
+     "pattern": "問いかけ",
+     "text": "紅葉見に行く？"
+    },
+    {
+     "pattern": "問いかけ長文",
+     "text": "ちょっとだけ秋っぽくなってきた公園へ。ベルベットの生地がやわらかくて一日うれしかった。今年は紅葉見に行く？"
     }
    ]
   }
